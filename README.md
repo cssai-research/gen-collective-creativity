@@ -1,6 +1,6 @@
 # From Semantic Memory to Collective Creativity — Analysis Notebook
 
-This repository contains the analysis code used to generate the main figures and reported statistics for the paper *From Semantic Memory to Collective Creativity*. The work implements a socio-cognitive agent-based model in which collective creativity emerges from generative cognitive mechanisms rather than from exogenously assigned traits.
+This repository contains the analysis code used to generate the main figures and reported statistics for the paper *From semantic memory to collective creativity: A generative cognitive foundation for social creativity models*. The work implements a socio-cognitive agent-based model in which collective creativity emerges from generative cognitive mechanisms rather than from exogenously assigned traits.
 
 The core artifact in this repository is:
 
