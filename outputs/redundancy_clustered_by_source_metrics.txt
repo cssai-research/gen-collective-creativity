@@ -1,0 +1,19 @@
+=== Redundancy: Triad - Control (clustered by source) ===
+N matched comparisons = 495,000
+N source clusters     = 100
+
+Control mean          = 0.124133 (95% CI [0.123864, 0.124402])
+Triad mean            = 0.150174 (95% CI [0.149125, 0.151224])
+
+Mean diff             = 0.026041
+95% CI (cluster-rob)  = [0.025128, 0.026954]
+t (cluster-rob)       = 55.896
+p (cluster-rob)       = < 1e-300
+
+Cohen's dz (paired)   = 1.395
+
+[Sanity only / not for inference]
+Naive paired t-test   = t=981.728, p=< 1e-300
+
+JSON file             = fig4.json
+Saved figure          = outputs\redundancy_test_clustered_by_source.pdf

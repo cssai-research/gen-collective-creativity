@@ -1,0 +1,69 @@
+{
+  "n_graphs": 500,
+  "config": {
+    "random_walk_steps": 50,
+    "eval_repeats": 30,
+    "N": 100,
+    "K": 4,
+    "seed": 42,
+    "machine_id": "5be35af4c0ba"
+  },
+  "pearson_modularity_vs_num_concepts": {
+    "r": -0.8985034953063974,
+    "p": 3.3895332865108575e-180,
+    "ci95_lo": -0.9141666210795547,
+    "ci95_hi": -0.8801610612928187
+  },
+  "spearman_modularity_vs_num_concepts": {
+    "rho": -0.910530919178324,
+    "p": 3.6946069647114987e-193
+  },
+  "kendall_modularity_vs_num_concepts": {
+    "tau": -0.7337389983968781,
+    "p": 2.6004391023317676e-132
+  },
+  "ols_num_concepts_on_modularity": {
+    "beta": -28.89409055479906,
+    "ci95_lo": -30.136917593677065,
+    "ci95_hi": -27.651263515921055,
+    "p": 3.389533286510619e-180,
+    "r2": 0.8073085310778134,
+    "aic": 1440.9673898666679
+  },
+  "ols_num_concepts_on_modularity_plus_diameter": {
+    "beta_modularity": -32.646574063381514,
+    "ci95_lo": -34.046058939968475,
+    "ci95_hi": -31.247089186794554,
+    "p": 1.3210183975776085e-180,
+    "r2": 0.8355267672182769,
+    "aic": 1363.7961574486922
+  },
+  "nonlinearity_check": {
+    "aic_linear": 1440.9673898666679,
+    "aic_quadratic": 1369.3805061316552,
+    "delta_aic_quad_minus_lin": -71.58688373501263
+  },
+  "theil_sen_robust_slope": {
+    "slope": -28.34733015784275,
+    "intercept": 43.084954530734485,
+    "ci95_lo": -29.908801530576316,
+    "ci95_hi": -26.894234328236234,
+    "bootstrap_B": 5000
+  },
+  "endpoint_contrast_bottom10pct_minus_top10pct_modularity": {
+    "q10_modularity": 0.48273875,
+    "q90_modularity": 0.6811312499999999,
+    "n_bottom10pct": 50,
+    "n_top10pct": 50,
+    "mean_diff": 6.360666666666667,
+    "ci95_lo": 5.963316666666668,
+    "ci95_hi": 6.772683333333336,
+    "bootstrap_B": 5000
+  },
+  "pearson_modularity_vs_diameter": {
+    "r": 0.5705084244969956,
+    "p": 1.6398288183066373e-44,
+    "ci95_lo": 0.5082443989482445,
+    "ci95_hi": 0.6268393555828541
+  }
+}

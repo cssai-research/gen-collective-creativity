@@ -1,0 +1,8 @@
+=== Pair FE + Prompt FE (clustered by ordered pair) ===
+N units = 4,998
+Unique ordered pairs = 500
+Unique prompts = 100
+beta(overlap_mean) = -5.781132
+95% CI = [-6.695445, -4.866818]
+p = 2.863e-35
+R^2 = 0.4959
