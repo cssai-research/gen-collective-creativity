@@ -1,0 +1,3029 @@
+{
+    "experiment": "experimentB",
+    "config": {
+        "random_walk_steps": 50,
+        "eval_repeats": 30,
+        "N": 100,
+        "K": 4,
+        "seed": 42,
+        "machine_id": "5be35af4c0ba"
+    },
+    "results_path": "/Users/mirzanayeemahmed/Code/hnds2/outputs/modularity_to_creativity/results/expB_results_N100_K4_RW50_REPEATS30_seed42.json",
+    "time_taken": 16.413991928100586,
+    "results": [
+        {
+            "Index": 0,
+            "Modularity": 0.7069875,
+            "Num Concepts Accessed": 23.0,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 1,
+            "Modularity": 0.7086250000000001,
+            "Num Concepts Accessed": 22.066666666666666,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 2,
+            "Modularity": 0.7040500000000001,
+            "Num Concepts Accessed": 22.466666666666665,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 3,
+            "Modularity": 0.6593,
+            "Num Concepts Accessed": 25.866666666666667,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 4,
+            "Modularity": 0.6574375,
+            "Num Concepts Accessed": 25.633333333333333,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 5,
+            "Modularity": 0.6543249999999998,
+            "Num Concepts Accessed": 24.133333333333333,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 6,
+            "Modularity": 0.65535,
+            "Num Concepts Accessed": 25.9,
+            "Diameter": 10.066666666666666
+        },
+        {
+            "Index": 7,
+            "Modularity": 0.6559,
+            "Num Concepts Accessed": 24.166666666666668,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 8,
+            "Modularity": 0.6503749999999999,
+            "Num Concepts Accessed": 22.633333333333333,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 9,
+            "Modularity": 0.655325,
+            "Num Concepts Accessed": 22.6,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 10,
+            "Modularity": 0.6513249999999999,
+            "Num Concepts Accessed": 26.933333333333334,
+            "Diameter": 10.566666666666666
+        },
+        {
+            "Index": 11,
+            "Modularity": 0.6527999999999999,
+            "Num Concepts Accessed": 24.766666666666666,
+            "Diameter": 10.0
+        },
+        {
+            "Index": 12,
+            "Modularity": 0.6525250000000001,
+            "Num Concepts Accessed": 24.4,
+            "Diameter": 10.1
+        },
+        {
+            "Index": 13,
+            "Modularity": 0.7039124999999999,
+            "Num Concepts Accessed": 21.166666666666668,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 14,
+            "Modularity": 0.6523499999999999,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 15,
+            "Modularity": 0.6540875,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 11.033333333333333
+        },
+        {
+            "Index": 16,
+            "Modularity": 0.65045,
+            "Num Concepts Accessed": 27.0,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 17,
+            "Modularity": 0.6425375,
+            "Num Concepts Accessed": 26.866666666666667,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 18,
+            "Modularity": 0.6519250000000001,
+            "Num Concepts Accessed": 24.466666666666665,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 19,
+            "Modularity": 0.6495624999999999,
+            "Num Concepts Accessed": 23.466666666666665,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 20,
+            "Modularity": 0.64525,
+            "Num Concepts Accessed": 24.733333333333334,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 21,
+            "Modularity": 0.65105,
+            "Num Concepts Accessed": 23.8,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 22,
+            "Modularity": 0.6489375000000001,
+            "Num Concepts Accessed": 24.5,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 23,
+            "Modularity": 0.6476,
+            "Num Concepts Accessed": 23.966666666666665,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 24,
+            "Modularity": 0.7021999999999999,
+            "Num Concepts Accessed": 21.6,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 25,
+            "Modularity": 0.6465875000000001,
+            "Num Concepts Accessed": 25.0,
+            "Diameter": 10.5
+        },
+        {
+            "Index": 26,
+            "Modularity": 0.6493,
+            "Num Concepts Accessed": 25.033333333333335,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 27,
+            "Modularity": 0.6472,
+            "Num Concepts Accessed": 24.266666666666666,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 28,
+            "Modularity": 0.6481500000000001,
+            "Num Concepts Accessed": 26.166666666666668,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 29,
+            "Modularity": 0.64705,
+            "Num Concepts Accessed": 23.666666666666668,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 30,
+            "Modularity": 0.6467875000000001,
+            "Num Concepts Accessed": 23.5,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 31,
+            "Modularity": 0.6451625,
+            "Num Concepts Accessed": 22.933333333333334,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 32,
+            "Modularity": 0.6380625000000001,
+            "Num Concepts Accessed": 25.133333333333333,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 33,
+            "Modularity": 0.6457124999999999,
+            "Num Concepts Accessed": 25.0,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 34,
+            "Modularity": 0.6422875,
+            "Num Concepts Accessed": 24.7,
+            "Diameter": 10.266666666666667
+        },
+        {
+            "Index": 35,
+            "Modularity": 0.701475,
+            "Num Concepts Accessed": 23.733333333333334,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 36,
+            "Modularity": 0.6443125000000001,
+            "Num Concepts Accessed": 25.566666666666666,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 37,
+            "Modularity": 0.6426375,
+            "Num Concepts Accessed": 23.066666666666666,
+            "Diameter": 8.666666666666666
+        },
+        {
+            "Index": 38,
+            "Modularity": 0.6368375000000001,
+            "Num Concepts Accessed": 24.733333333333334,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 39,
+            "Modularity": 0.6387125,
+            "Num Concepts Accessed": 27.733333333333334,
+            "Diameter": 10.1
+        },
+        {
+            "Index": 40,
+            "Modularity": 0.6416124999999998,
+            "Num Concepts Accessed": 23.833333333333332,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 41,
+            "Modularity": 0.6396124999999999,
+            "Num Concepts Accessed": 25.733333333333334,
+            "Diameter": 10.4
+        },
+        {
+            "Index": 42,
+            "Modularity": 0.6410374999999999,
+            "Num Concepts Accessed": 24.666666666666668,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 43,
+            "Modularity": 0.6372375,
+            "Num Concepts Accessed": 26.5,
+            "Diameter": 10.1
+        },
+        {
+            "Index": 44,
+            "Modularity": 0.6402249999999999,
+            "Num Concepts Accessed": 26.033333333333335,
+            "Diameter": 10.433333333333334
+        },
+        {
+            "Index": 45,
+            "Modularity": 0.639275,
+            "Num Concepts Accessed": 24.866666666666667,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 46,
+            "Modularity": 0.6996624999999999,
+            "Num Concepts Accessed": 22.766666666666666,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 47,
+            "Modularity": 0.6398500000000001,
+            "Num Concepts Accessed": 24.833333333333332,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 48,
+            "Modularity": 0.6382500000000001,
+            "Num Concepts Accessed": 25.3,
+            "Diameter": 10.466666666666667
+        },
+        {
+            "Index": 49,
+            "Modularity": 0.6357,
+            "Num Concepts Accessed": 25.6,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 50,
+            "Modularity": 0.63775,
+            "Num Concepts Accessed": 22.033333333333335,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 51,
+            "Modularity": 0.6358875,
+            "Num Concepts Accessed": 25.066666666666666,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 52,
+            "Modularity": 0.6367125,
+            "Num Concepts Accessed": 26.733333333333334,
+            "Diameter": 10.6
+        },
+        {
+            "Index": 53,
+            "Modularity": 0.6356375000000001,
+            "Num Concepts Accessed": 24.966666666666665,
+            "Diameter": 10.466666666666667
+        },
+        {
+            "Index": 54,
+            "Modularity": 0.632325,
+            "Num Concepts Accessed": 26.633333333333333,
+            "Diameter": 10.766666666666667
+        },
+        {
+            "Index": 55,
+            "Modularity": 0.6316250000000001,
+            "Num Concepts Accessed": 24.8,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 56,
+            "Modularity": 0.6325249999999999,
+            "Num Concepts Accessed": 25.0,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 57,
+            "Modularity": 0.699425,
+            "Num Concepts Accessed": 23.233333333333334,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 58,
+            "Modularity": 0.634025,
+            "Num Concepts Accessed": 26.233333333333334,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 59,
+            "Modularity": 0.6332375000000001,
+            "Num Concepts Accessed": 24.8,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 60,
+            "Modularity": 0.63195,
+            "Num Concepts Accessed": 26.566666666666666,
+            "Diameter": 10.0
+        },
+        {
+            "Index": 61,
+            "Modularity": 0.630775,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 10.833333333333334
+        },
+        {
+            "Index": 62,
+            "Modularity": 0.627325,
+            "Num Concepts Accessed": 25.233333333333334,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 63,
+            "Modularity": 0.6317499999999999,
+            "Num Concepts Accessed": 25.266666666666666,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 64,
+            "Modularity": 0.62805,
+            "Num Concepts Accessed": 25.633333333333333,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 65,
+            "Modularity": 0.6295625000000001,
+            "Num Concepts Accessed": 25.5,
+            "Diameter": 11.1
+        },
+        {
+            "Index": 66,
+            "Modularity": 0.6277625,
+            "Num Concepts Accessed": 24.433333333333334,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 67,
+            "Modularity": 0.6281249999999999,
+            "Num Concepts Accessed": 23.1,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 68,
+            "Modularity": 0.7013625,
+            "Num Concepts Accessed": 21.566666666666666,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 69,
+            "Modularity": 0.6286499999999999,
+            "Num Concepts Accessed": 22.9,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 70,
+            "Modularity": 0.6249875,
+            "Num Concepts Accessed": 25.766666666666666,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 71,
+            "Modularity": 0.6279999999999999,
+            "Num Concepts Accessed": 25.533333333333335,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 72,
+            "Modularity": 0.6276750000000001,
+            "Num Concepts Accessed": 25.333333333333332,
+            "Diameter": 10.333333333333334
+        },
+        {
+            "Index": 73,
+            "Modularity": 0.6221625,
+            "Num Concepts Accessed": 26.133333333333333,
+            "Diameter": 11.033333333333333
+        },
+        {
+            "Index": 74,
+            "Modularity": 0.62375,
+            "Num Concepts Accessed": 25.033333333333335,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 75,
+            "Modularity": 0.6265750000000001,
+            "Num Concepts Accessed": 26.566666666666666,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 76,
+            "Modularity": 0.62485,
+            "Num Concepts Accessed": 27.866666666666667,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 77,
+            "Modularity": 0.6249875,
+            "Num Concepts Accessed": 25.2,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 78,
+            "Modularity": 0.6246375000000001,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 10.533333333333333
+        },
+        {
+            "Index": 79,
+            "Modularity": 0.6999375,
+            "Num Concepts Accessed": 21.733333333333334,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 80,
+            "Modularity": 0.62355,
+            "Num Concepts Accessed": 24.333333333333332,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 81,
+            "Modularity": 0.620225,
+            "Num Concepts Accessed": 26.233333333333334,
+            "Diameter": 10.333333333333334
+        },
+        {
+            "Index": 82,
+            "Modularity": 0.623375,
+            "Num Concepts Accessed": 24.633333333333333,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 83,
+            "Modularity": 0.6175750000000001,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 10.466666666666667
+        },
+        {
+            "Index": 84,
+            "Modularity": 0.6177750000000001,
+            "Num Concepts Accessed": 26.266666666666666,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 85,
+            "Modularity": 0.6171625000000002,
+            "Num Concepts Accessed": 25.633333333333333,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 86,
+            "Modularity": 0.6215,
+            "Num Concepts Accessed": 26.533333333333335,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 87,
+            "Modularity": 0.61865,
+            "Num Concepts Accessed": 26.466666666666665,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 88,
+            "Modularity": 0.6164875000000001,
+            "Num Concepts Accessed": 26.3,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 89,
+            "Modularity": 0.6201749999999999,
+            "Num Concepts Accessed": 26.066666666666666,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 90,
+            "Modularity": 0.6982375,
+            "Num Concepts Accessed": 23.9,
+            "Diameter": 10.4
+        },
+        {
+            "Index": 91,
+            "Modularity": 0.6190749999999999,
+            "Num Concepts Accessed": 25.6,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 92,
+            "Modularity": 0.6134499999999999,
+            "Num Concepts Accessed": 24.466666666666665,
+            "Diameter": 10.266666666666667
+        },
+        {
+            "Index": 93,
+            "Modularity": 0.6178250000000001,
+            "Num Concepts Accessed": 26.033333333333335,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 94,
+            "Modularity": 0.613725,
+            "Num Concepts Accessed": 26.166666666666668,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 95,
+            "Modularity": 0.6170125,
+            "Num Concepts Accessed": 25.466666666666665,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 96,
+            "Modularity": 0.6148249999999998,
+            "Num Concepts Accessed": 26.366666666666667,
+            "Diameter": 10.6
+        },
+        {
+            "Index": 97,
+            "Modularity": 0.6131625,
+            "Num Concepts Accessed": 25.866666666666667,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 98,
+            "Modularity": 0.6132375,
+            "Num Concepts Accessed": 26.6,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 99,
+            "Modularity": 0.6079249999999999,
+            "Num Concepts Accessed": 25.566666666666666,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 100,
+            "Modularity": 0.6100500000000001,
+            "Num Concepts Accessed": 25.166666666666668,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 101,
+            "Modularity": 0.698425,
+            "Num Concepts Accessed": 21.266666666666666,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 102,
+            "Modularity": 0.6136499999999999,
+            "Num Concepts Accessed": 25.533333333333335,
+            "Diameter": 10.933333333333334
+        },
+        {
+            "Index": 103,
+            "Modularity": 0.6094625,
+            "Num Concepts Accessed": 26.1,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 104,
+            "Modularity": 0.6085125,
+            "Num Concepts Accessed": 25.1,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 105,
+            "Modularity": 0.60585,
+            "Num Concepts Accessed": 24.9,
+            "Diameter": 8.5
+        },
+        {
+            "Index": 106,
+            "Modularity": 0.6101125000000001,
+            "Num Concepts Accessed": 26.466666666666665,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 107,
+            "Modularity": 0.609175,
+            "Num Concepts Accessed": 27.233333333333334,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 108,
+            "Modularity": 0.6110875,
+            "Num Concepts Accessed": 24.2,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 109,
+            "Modularity": 0.6100875000000001,
+            "Num Concepts Accessed": 25.766666666666666,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 110,
+            "Modularity": 0.6088375,
+            "Num Concepts Accessed": 25.533333333333335,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 111,
+            "Modularity": 0.6097874999999999,
+            "Num Concepts Accessed": 27.0,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 112,
+            "Modularity": 0.7050250000000001,
+            "Num Concepts Accessed": 22.566666666666666,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 113,
+            "Modularity": 0.6985500000000001,
+            "Num Concepts Accessed": 20.8,
+            "Diameter": 8.533333333333333
+        },
+        {
+            "Index": 114,
+            "Modularity": 0.6067125,
+            "Num Concepts Accessed": 27.466666666666665,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 115,
+            "Modularity": 0.6076125000000001,
+            "Num Concepts Accessed": 26.666666666666668,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 116,
+            "Modularity": 0.6071625,
+            "Num Concepts Accessed": 26.5,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 117,
+            "Modularity": 0.6049,
+            "Num Concepts Accessed": 25.833333333333332,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 118,
+            "Modularity": 0.6042999999999998,
+            "Num Concepts Accessed": 27.266666666666666,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 119,
+            "Modularity": 0.5934749999999999,
+            "Num Concepts Accessed": 26.466666666666665,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 120,
+            "Modularity": 0.60645,
+            "Num Concepts Accessed": 27.4,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 121,
+            "Modularity": 0.6026,
+            "Num Concepts Accessed": 27.566666666666666,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 122,
+            "Modularity": 0.6041375,
+            "Num Concepts Accessed": 26.766666666666666,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 123,
+            "Modularity": 0.6013749999999999,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 10.433333333333334
+        },
+        {
+            "Index": 124,
+            "Modularity": 0.6969125000000002,
+            "Num Concepts Accessed": 23.133333333333333,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 125,
+            "Modularity": 0.6034999999999999,
+            "Num Concepts Accessed": 24.7,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 126,
+            "Modularity": 0.6033499999999999,
+            "Num Concepts Accessed": 25.733333333333334,
+            "Diameter": 10.333333333333334
+        },
+        {
+            "Index": 127,
+            "Modularity": 0.5994,
+            "Num Concepts Accessed": 27.3,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 128,
+            "Modularity": 0.6018875,
+            "Num Concepts Accessed": 25.733333333333334,
+            "Diameter": 10.066666666666666
+        },
+        {
+            "Index": 129,
+            "Modularity": 0.5990750000000001,
+            "Num Concepts Accessed": 26.766666666666666,
+            "Diameter": 10.266666666666667
+        },
+        {
+            "Index": 130,
+            "Modularity": 0.6010000000000001,
+            "Num Concepts Accessed": 25.533333333333335,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 131,
+            "Modularity": 0.6017500000000001,
+            "Num Concepts Accessed": 25.633333333333333,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 132,
+            "Modularity": 0.596475,
+            "Num Concepts Accessed": 26.233333333333334,
+            "Diameter": 10.0
+        },
+        {
+            "Index": 133,
+            "Modularity": 0.5968,
+            "Num Concepts Accessed": 26.066666666666666,
+            "Diameter": 10.766666666666667
+        },
+        {
+            "Index": 134,
+            "Modularity": 0.5889875000000001,
+            "Num Concepts Accessed": 27.6,
+            "Diameter": 10.766666666666667
+        },
+        {
+            "Index": 135,
+            "Modularity": 0.6987,
+            "Num Concepts Accessed": 20.566666666666666,
+            "Diameter": 8.8
+        },
+        {
+            "Index": 136,
+            "Modularity": 0.5951250000000001,
+            "Num Concepts Accessed": 26.966666666666665,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 137,
+            "Modularity": 0.5954125000000001,
+            "Num Concepts Accessed": 26.4,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 138,
+            "Modularity": 0.5986125,
+            "Num Concepts Accessed": 26.3,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 139,
+            "Modularity": 0.5958,
+            "Num Concepts Accessed": 27.333333333333332,
+            "Diameter": 10.333333333333334
+        },
+        {
+            "Index": 140,
+            "Modularity": 0.5839375,
+            "Num Concepts Accessed": 27.833333333333332,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 141,
+            "Modularity": 0.589475,
+            "Num Concepts Accessed": 27.133333333333333,
+            "Diameter": 10.5
+        },
+        {
+            "Index": 142,
+            "Modularity": 0.5918875,
+            "Num Concepts Accessed": 27.4,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 143,
+            "Modularity": 0.5959375,
+            "Num Concepts Accessed": 25.566666666666666,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 144,
+            "Modularity": 0.595425,
+            "Num Concepts Accessed": 25.433333333333334,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 145,
+            "Modularity": 0.5925875,
+            "Num Concepts Accessed": 28.433333333333334,
+            "Diameter": 10.2
+        },
+        {
+            "Index": 146,
+            "Modularity": 0.6957125000000002,
+            "Num Concepts Accessed": 22.833333333333332,
+            "Diameter": 10.5
+        },
+        {
+            "Index": 147,
+            "Modularity": 0.5906125,
+            "Num Concepts Accessed": 26.833333333333332,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 148,
+            "Modularity": 0.5938125,
+            "Num Concepts Accessed": 26.133333333333333,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 149,
+            "Modularity": 0.593425,
+            "Num Concepts Accessed": 27.566666666666666,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 150,
+            "Modularity": 0.591075,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 151,
+            "Modularity": 0.5905,
+            "Num Concepts Accessed": 27.533333333333335,
+            "Diameter": 8.666666666666666
+        },
+        {
+            "Index": 152,
+            "Modularity": 0.588875,
+            "Num Concepts Accessed": 26.766666666666666,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 153,
+            "Modularity": 0.5888124999999998,
+            "Num Concepts Accessed": 25.066666666666666,
+            "Diameter": 10.2
+        },
+        {
+            "Index": 154,
+            "Modularity": 0.5783874999999999,
+            "Num Concepts Accessed": 26.966666666666665,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 155,
+            "Modularity": 0.5885374999999999,
+            "Num Concepts Accessed": 25.9,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 156,
+            "Modularity": 0.5819624999999999,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 157,
+            "Modularity": 0.69305,
+            "Num Concepts Accessed": 21.666666666666668,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 158,
+            "Modularity": 0.5858875,
+            "Num Concepts Accessed": 24.366666666666667,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 159,
+            "Modularity": 0.5818625,
+            "Num Concepts Accessed": 26.733333333333334,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 160,
+            "Modularity": 0.58125,
+            "Num Concepts Accessed": 26.833333333333332,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 161,
+            "Modularity": 0.5843875,
+            "Num Concepts Accessed": 25.733333333333334,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 162,
+            "Modularity": 0.57995,
+            "Num Concepts Accessed": 25.633333333333333,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 163,
+            "Modularity": 0.581025,
+            "Num Concepts Accessed": 27.1,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 164,
+            "Modularity": 0.58545,
+            "Num Concepts Accessed": 27.6,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 165,
+            "Modularity": 0.5827125,
+            "Num Concepts Accessed": 28.166666666666668,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 166,
+            "Modularity": 0.5735,
+            "Num Concepts Accessed": 28.8,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 167,
+            "Modularity": 0.585175,
+            "Num Concepts Accessed": 26.833333333333332,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 168,
+            "Modularity": 0.6804749999999998,
+            "Num Concepts Accessed": 23.466666666666665,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 169,
+            "Modularity": 0.5795875,
+            "Num Concepts Accessed": 26.433333333333334,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 170,
+            "Modularity": 0.57975,
+            "Num Concepts Accessed": 27.066666666666666,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 171,
+            "Modularity": 0.5813125,
+            "Num Concepts Accessed": 27.5,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 172,
+            "Modularity": 0.5735499999999999,
+            "Num Concepts Accessed": 26.5,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 173,
+            "Modularity": 0.5824875000000002,
+            "Num Concepts Accessed": 28.066666666666666,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 174,
+            "Modularity": 0.5821625,
+            "Num Concepts Accessed": 26.466666666666665,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 175,
+            "Modularity": 0.57955,
+            "Num Concepts Accessed": 25.7,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 176,
+            "Modularity": 0.5812,
+            "Num Concepts Accessed": 26.4,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 177,
+            "Modularity": 0.5803875000000001,
+            "Num Concepts Accessed": 26.433333333333334,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 178,
+            "Modularity": 0.5756125,
+            "Num Concepts Accessed": 27.0,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 179,
+            "Modularity": 0.69695,
+            "Num Concepts Accessed": 22.5,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 180,
+            "Modularity": 0.5769,
+            "Num Concepts Accessed": 27.1,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 181,
+            "Modularity": 0.5763375,
+            "Num Concepts Accessed": 28.233333333333334,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 182,
+            "Modularity": 0.5767500000000001,
+            "Num Concepts Accessed": 28.2,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 183,
+            "Modularity": 0.5738249999999999,
+            "Num Concepts Accessed": 26.2,
+            "Diameter": 8.8
+        },
+        {
+            "Index": 184,
+            "Modularity": 0.57505,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 185,
+            "Modularity": 0.5758375000000001,
+            "Num Concepts Accessed": 26.866666666666667,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 186,
+            "Modularity": 0.5747,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 10.633333333333333
+        },
+        {
+            "Index": 187,
+            "Modularity": 0.5746749999999999,
+            "Num Concepts Accessed": 26.966666666666665,
+            "Diameter": 10.566666666666666
+        },
+        {
+            "Index": 188,
+            "Modularity": 0.5737375,
+            "Num Concepts Accessed": 27.166666666666668,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 189,
+            "Modularity": 0.5668,
+            "Num Concepts Accessed": 27.8,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 190,
+            "Modularity": 0.6962250000000001,
+            "Num Concepts Accessed": 23.066666666666666,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 191,
+            "Modularity": 0.5743875,
+            "Num Concepts Accessed": 26.0,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 192,
+            "Modularity": 0.5741375000000001,
+            "Num Concepts Accessed": 26.633333333333333,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 193,
+            "Modularity": 0.5720000000000002,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 194,
+            "Modularity": 0.57015,
+            "Num Concepts Accessed": 28.033333333333335,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 195,
+            "Modularity": 0.5657374999999999,
+            "Num Concepts Accessed": 27.733333333333334,
+            "Diameter": 10.266666666666667
+        },
+        {
+            "Index": 196,
+            "Modularity": 0.5674250000000001,
+            "Num Concepts Accessed": 28.033333333333335,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 197,
+            "Modularity": 0.5692749999999999,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 10.0
+        },
+        {
+            "Index": 198,
+            "Modularity": 0.5662874999999999,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 199,
+            "Modularity": 0.5705875,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 200,
+            "Modularity": 0.568325,
+            "Num Concepts Accessed": 27.966666666666665,
+            "Diameter": 10.533333333333333
+        },
+        {
+            "Index": 201,
+            "Modularity": 0.6935,
+            "Num Concepts Accessed": 21.633333333333333,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 202,
+            "Modularity": 0.5663874999999998,
+            "Num Concepts Accessed": 26.9,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 203,
+            "Modularity": 0.5644874999999999,
+            "Num Concepts Accessed": 26.133333333333333,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 204,
+            "Modularity": 0.5643875000000002,
+            "Num Concepts Accessed": 27.966666666666665,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 205,
+            "Modularity": 0.5678374999999999,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 206,
+            "Modularity": 0.5638249999999999,
+            "Num Concepts Accessed": 27.2,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 207,
+            "Modularity": 0.5619625,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 10.2
+        },
+        {
+            "Index": 208,
+            "Modularity": 0.5609749999999999,
+            "Num Concepts Accessed": 26.733333333333334,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 209,
+            "Modularity": 0.5632749999999999,
+            "Num Concepts Accessed": 27.9,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 210,
+            "Modularity": 0.5653375,
+            "Num Concepts Accessed": 27.266666666666666,
+            "Diameter": 9.7
+        },
+        {
+            "Index": 211,
+            "Modularity": 0.5628625,
+            "Num Concepts Accessed": 27.2,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 212,
+            "Modularity": 0.69365,
+            "Num Concepts Accessed": 23.433333333333334,
+            "Diameter": 10.5
+        },
+        {
+            "Index": 213,
+            "Modularity": 0.5624625,
+            "Num Concepts Accessed": 28.333333333333332,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 214,
+            "Modularity": 0.5606875,
+            "Num Concepts Accessed": 28.866666666666667,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 215,
+            "Modularity": 0.5615125,
+            "Num Concepts Accessed": 28.6,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 216,
+            "Modularity": 0.5571875,
+            "Num Concepts Accessed": 27.933333333333334,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 217,
+            "Modularity": 0.5569875000000001,
+            "Num Concepts Accessed": 27.066666666666666,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 218,
+            "Modularity": 0.5620124999999999,
+            "Num Concepts Accessed": 26.666666666666668,
+            "Diameter": 9.7
+        },
+        {
+            "Index": 219,
+            "Modularity": 0.5527125,
+            "Num Concepts Accessed": 27.533333333333335,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 220,
+            "Modularity": 0.5597500000000001,
+            "Num Concepts Accessed": 24.233333333333334,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 221,
+            "Modularity": 0.56065,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 222,
+            "Modularity": 0.5601250000000001,
+            "Num Concepts Accessed": 27.033333333333335,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 223,
+            "Modularity": 0.7084125,
+            "Num Concepts Accessed": 23.366666666666667,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 224,
+            "Modularity": 0.6923375,
+            "Num Concepts Accessed": 24.0,
+            "Diameter": 10.633333333333333
+        },
+        {
+            "Index": 225,
+            "Modularity": 0.559275,
+            "Num Concepts Accessed": 28.1,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 226,
+            "Modularity": 0.558075,
+            "Num Concepts Accessed": 28.533333333333335,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 227,
+            "Modularity": 0.5584999999999999,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 10.266666666666667
+        },
+        {
+            "Index": 228,
+            "Modularity": 0.5556625,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 229,
+            "Modularity": 0.5537124999999999,
+            "Num Concepts Accessed": 26.766666666666666,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 230,
+            "Modularity": 0.554075,
+            "Num Concepts Accessed": 27.133333333333333,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 231,
+            "Modularity": 0.5546749999999999,
+            "Num Concepts Accessed": 27.033333333333335,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 232,
+            "Modularity": 0.5532250000000001,
+            "Num Concepts Accessed": 28.666666666666668,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 233,
+            "Modularity": 0.5550499999999999,
+            "Num Concepts Accessed": 27.5,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 234,
+            "Modularity": 0.5551625,
+            "Num Concepts Accessed": 28.633333333333333,
+            "Diameter": 9.7
+        },
+        {
+            "Index": 235,
+            "Modularity": 0.6860499999999999,
+            "Num Concepts Accessed": 25.033333333333335,
+            "Diameter": 11.466666666666667
+        },
+        {
+            "Index": 236,
+            "Modularity": 0.5466625,
+            "Num Concepts Accessed": 28.733333333333334,
+            "Diameter": 10.066666666666666
+        },
+        {
+            "Index": 237,
+            "Modularity": 0.5540875000000001,
+            "Num Concepts Accessed": 29.2,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 238,
+            "Modularity": 0.5505,
+            "Num Concepts Accessed": 26.366666666666667,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 239,
+            "Modularity": 0.5378875000000001,
+            "Num Concepts Accessed": 29.066666666666666,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 240,
+            "Modularity": 0.5526500000000001,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 241,
+            "Modularity": 0.5482625,
+            "Num Concepts Accessed": 27.766666666666666,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 242,
+            "Modularity": 0.5493125,
+            "Num Concepts Accessed": 26.8,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 243,
+            "Modularity": 0.5498875,
+            "Num Concepts Accessed": 27.1,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 244,
+            "Modularity": 0.548425,
+            "Num Concepts Accessed": 28.3,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 245,
+            "Modularity": 0.5478874999999999,
+            "Num Concepts Accessed": 27.966666666666665,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 246,
+            "Modularity": 0.6914,
+            "Num Concepts Accessed": 22.2,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 247,
+            "Modularity": 0.549175,
+            "Num Concepts Accessed": 26.6,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 248,
+            "Modularity": 0.548675,
+            "Num Concepts Accessed": 27.533333333333335,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 249,
+            "Modularity": 0.5484249999999999,
+            "Num Concepts Accessed": 29.033333333333335,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 250,
+            "Modularity": 0.5447624999999999,
+            "Num Concepts Accessed": 28.766666666666666,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 251,
+            "Modularity": 0.547525,
+            "Num Concepts Accessed": 26.9,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 252,
+            "Modularity": 0.54715,
+            "Num Concepts Accessed": 27.133333333333333,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 253,
+            "Modularity": 0.5436375000000001,
+            "Num Concepts Accessed": 28.066666666666666,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 254,
+            "Modularity": 0.5451624999999999,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 255,
+            "Modularity": 0.5451625,
+            "Num Concepts Accessed": 27.566666666666666,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 256,
+            "Modularity": 0.5399499999999999,
+            "Num Concepts Accessed": 28.966666666666665,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 257,
+            "Modularity": 0.6883750000000001,
+            "Num Concepts Accessed": 24.4,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 258,
+            "Modularity": 0.54165,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 259,
+            "Modularity": 0.544125,
+            "Num Concepts Accessed": 27.766666666666666,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 260,
+            "Modularity": 0.5410499999999999,
+            "Num Concepts Accessed": 28.2,
+            "Diameter": 10.8
+        },
+        {
+            "Index": 261,
+            "Modularity": 0.5417125000000002,
+            "Num Concepts Accessed": 25.566666666666666,
+            "Diameter": 8.766666666666667
+        },
+        {
+            "Index": 262,
+            "Modularity": 0.5408875,
+            "Num Concepts Accessed": 27.366666666666667,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 263,
+            "Modularity": 0.5412625,
+            "Num Concepts Accessed": 27.0,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 264,
+            "Modularity": 0.5399,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 265,
+            "Modularity": 0.539375,
+            "Num Concepts Accessed": 27.8,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 266,
+            "Modularity": 0.5333625000000001,
+            "Num Concepts Accessed": 29.4,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 267,
+            "Modularity": 0.5393375,
+            "Num Concepts Accessed": 27.266666666666666,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 268,
+            "Modularity": 0.6917625,
+            "Num Concepts Accessed": 23.4,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 269,
+            "Modularity": 0.5389375000000001,
+            "Num Concepts Accessed": 29.533333333333335,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 270,
+            "Modularity": 0.5384874999999999,
+            "Num Concepts Accessed": 28.433333333333334,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 271,
+            "Modularity": 0.5384125,
+            "Num Concepts Accessed": 28.6,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 272,
+            "Modularity": 0.5358375000000001,
+            "Num Concepts Accessed": 27.666666666666668,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 273,
+            "Modularity": 0.5330875,
+            "Num Concepts Accessed": 28.566666666666666,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 274,
+            "Modularity": 0.5357124999999999,
+            "Num Concepts Accessed": 29.6,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 275,
+            "Modularity": 0.53445,
+            "Num Concepts Accessed": 28.066666666666666,
+            "Diameter": 8.766666666666667
+        },
+        {
+            "Index": 276,
+            "Modularity": 0.5322375,
+            "Num Concepts Accessed": 28.3,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 277,
+            "Modularity": 0.5352374999999999,
+            "Num Concepts Accessed": 28.766666666666666,
+            "Diameter": 8.4
+        },
+        {
+            "Index": 278,
+            "Modularity": 0.534675,
+            "Num Concepts Accessed": 27.3,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 279,
+            "Modularity": 0.6919624999999999,
+            "Num Concepts Accessed": 23.4,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 280,
+            "Modularity": 0.5321875,
+            "Num Concepts Accessed": 29.966666666666665,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 281,
+            "Modularity": 0.5329,
+            "Num Concepts Accessed": 28.566666666666666,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 282,
+            "Modularity": 0.5233249999999999,
+            "Num Concepts Accessed": 28.866666666666667,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 283,
+            "Modularity": 0.5309250000000001,
+            "Num Concepts Accessed": 28.366666666666667,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 284,
+            "Modularity": 0.5303375,
+            "Num Concepts Accessed": 25.8,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 285,
+            "Modularity": 0.52915,
+            "Num Concepts Accessed": 28.8,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 286,
+            "Modularity": 0.5307125,
+            "Num Concepts Accessed": 28.333333333333332,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 287,
+            "Modularity": 0.5307125,
+            "Num Concepts Accessed": 27.7,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 288,
+            "Modularity": 0.526875,
+            "Num Concepts Accessed": 28.333333333333332,
+            "Diameter": 8.533333333333333
+        },
+        {
+            "Index": 289,
+            "Modularity": 0.5251375,
+            "Num Concepts Accessed": 28.3,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 290,
+            "Modularity": 0.6884125,
+            "Num Concepts Accessed": 22.133333333333333,
+            "Diameter": 10.233333333333333
+        },
+        {
+            "Index": 291,
+            "Modularity": 0.5289625,
+            "Num Concepts Accessed": 27.966666666666665,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 292,
+            "Modularity": 0.5234000000000001,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 293,
+            "Modularity": 0.5266375000000001,
+            "Num Concepts Accessed": 27.433333333333334,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 294,
+            "Modularity": 0.525675,
+            "Num Concepts Accessed": 27.266666666666666,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 295,
+            "Modularity": 0.5248624999999999,
+            "Num Concepts Accessed": 27.6,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 296,
+            "Modularity": 0.5243375,
+            "Num Concepts Accessed": 27.866666666666667,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 297,
+            "Modularity": 0.5264624999999999,
+            "Num Concepts Accessed": 28.9,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 298,
+            "Modularity": 0.52485,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 299,
+            "Modularity": 0.52475,
+            "Num Concepts Accessed": 28.1,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 300,
+            "Modularity": 0.524725,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 301,
+            "Modularity": 0.688225,
+            "Num Concepts Accessed": 22.733333333333334,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 302,
+            "Modularity": 0.5239,
+            "Num Concepts Accessed": 29.166666666666668,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 303,
+            "Modularity": 0.5233625,
+            "Num Concepts Accessed": 27.366666666666667,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 304,
+            "Modularity": 0.5225125,
+            "Num Concepts Accessed": 28.466666666666665,
+            "Diameter": 10.233333333333333
+        },
+        {
+            "Index": 305,
+            "Modularity": 0.52295,
+            "Num Concepts Accessed": 26.633333333333333,
+            "Diameter": 9.733333333333333
+        },
+        {
+            "Index": 306,
+            "Modularity": 0.5213249999999999,
+            "Num Concepts Accessed": 28.666666666666668,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 307,
+            "Modularity": 0.5214249999999999,
+            "Num Concepts Accessed": 27.1,
+            "Diameter": 9.533333333333333
+        },
+        {
+            "Index": 308,
+            "Modularity": 0.5179125,
+            "Num Concepts Accessed": 28.2,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 309,
+            "Modularity": 0.5210625,
+            "Num Concepts Accessed": 29.366666666666667,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 310,
+            "Modularity": 0.52055,
+            "Num Concepts Accessed": 26.2,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 311,
+            "Modularity": 0.5199,
+            "Num Concepts Accessed": 28.7,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 312,
+            "Modularity": 0.6895,
+            "Num Concepts Accessed": 23.633333333333333,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 313,
+            "Modularity": 0.518,
+            "Num Concepts Accessed": 27.8,
+            "Diameter": 8.766666666666667
+        },
+        {
+            "Index": 314,
+            "Modularity": 0.518325,
+            "Num Concepts Accessed": 29.533333333333335,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 315,
+            "Modularity": 0.5149750000000001,
+            "Num Concepts Accessed": 28.633333333333333,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 316,
+            "Modularity": 0.5140875,
+            "Num Concepts Accessed": 29.1,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 317,
+            "Modularity": 0.513025,
+            "Num Concepts Accessed": 29.733333333333334,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 318,
+            "Modularity": 0.5117875000000001,
+            "Num Concepts Accessed": 28.833333333333332,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 319,
+            "Modularity": 0.514475,
+            "Num Concepts Accessed": 29.233333333333334,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 320,
+            "Modularity": 0.51425,
+            "Num Concepts Accessed": 29.7,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 321,
+            "Modularity": 0.513975,
+            "Num Concepts Accessed": 28.1,
+            "Diameter": 9.4
+        },
+        {
+            "Index": 322,
+            "Modularity": 0.5128,
+            "Num Concepts Accessed": 26.7,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 323,
+            "Modularity": 0.6855125,
+            "Num Concepts Accessed": 22.566666666666666,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 324,
+            "Modularity": 0.5123,
+            "Num Concepts Accessed": 29.166666666666668,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 325,
+            "Modularity": 0.511925,
+            "Num Concepts Accessed": 28.233333333333334,
+            "Diameter": 8.5
+        },
+        {
+            "Index": 326,
+            "Modularity": 0.5132625,
+            "Num Concepts Accessed": 27.933333333333334,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 327,
+            "Modularity": 0.511425,
+            "Num Concepts Accessed": 29.4,
+            "Diameter": 8.466666666666667
+        },
+        {
+            "Index": 328,
+            "Modularity": 0.51025,
+            "Num Concepts Accessed": 28.033333333333335,
+            "Diameter": 8.666666666666666
+        },
+        {
+            "Index": 329,
+            "Modularity": 0.5108625,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 330,
+            "Modularity": 0.50525,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 331,
+            "Modularity": 0.5096875,
+            "Num Concepts Accessed": 28.733333333333334,
+            "Diameter": 8.466666666666667
+        },
+        {
+            "Index": 332,
+            "Modularity": 0.5104375,
+            "Num Concepts Accessed": 28.1,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 333,
+            "Modularity": 0.5093500000000001,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 334,
+            "Modularity": 0.7050875000000001,
+            "Num Concepts Accessed": 22.766666666666666,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 335,
+            "Modularity": 0.6854375,
+            "Num Concepts Accessed": 20.733333333333334,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 336,
+            "Modularity": 0.5061125000000001,
+            "Num Concepts Accessed": 28.966666666666665,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 337,
+            "Modularity": 0.5035875000000001,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 338,
+            "Modularity": 0.5078750000000001,
+            "Num Concepts Accessed": 28.733333333333334,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 339,
+            "Modularity": 0.50475,
+            "Num Concepts Accessed": 29.533333333333335,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 340,
+            "Modularity": 0.505125,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 9.766666666666667
+        },
+        {
+            "Index": 341,
+            "Modularity": 0.505475,
+            "Num Concepts Accessed": 29.6,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 342,
+            "Modularity": 0.5031875,
+            "Num Concepts Accessed": 29.033333333333335,
+            "Diameter": 9.566666666666666
+        },
+        {
+            "Index": 343,
+            "Modularity": 0.50295,
+            "Num Concepts Accessed": 29.4,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 344,
+            "Modularity": 0.501275,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 345,
+            "Modularity": 0.5034000000000001,
+            "Num Concepts Accessed": 28.933333333333334,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 346,
+            "Modularity": 0.6843875,
+            "Num Concepts Accessed": 22.833333333333332,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 347,
+            "Modularity": 0.503425,
+            "Num Concepts Accessed": 27.5,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 348,
+            "Modularity": 0.502325,
+            "Num Concepts Accessed": 27.866666666666667,
+            "Diameter": 9.3
+        },
+        {
+            "Index": 349,
+            "Modularity": 0.5009375,
+            "Num Concepts Accessed": 29.533333333333335,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 350,
+            "Modularity": 0.5007,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 351,
+            "Modularity": 0.4935875,
+            "Num Concepts Accessed": 28.7,
+            "Diameter": 8.933333333333334
+        },
+        {
+            "Index": 352,
+            "Modularity": 0.49965,
+            "Num Concepts Accessed": 29.633333333333333,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 353,
+            "Modularity": 0.49834999999999996,
+            "Num Concepts Accessed": 30.8,
+            "Diameter": 8.533333333333333
+        },
+        {
+            "Index": 354,
+            "Modularity": 0.49822500000000003,
+            "Num Concepts Accessed": 27.7,
+            "Diameter": 9.433333333333334
+        },
+        {
+            "Index": 355,
+            "Modularity": 0.4978250000000001,
+            "Num Concepts Accessed": 28.966666666666665,
+            "Diameter": 8.8
+        },
+        {
+            "Index": 356,
+            "Modularity": 0.49857499999999993,
+            "Num Concepts Accessed": 27.766666666666666,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 357,
+            "Modularity": 0.6857625000000002,
+            "Num Concepts Accessed": 22.766666666666666,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 358,
+            "Modularity": 0.49896250000000003,
+            "Num Concepts Accessed": 29.466666666666665,
+            "Diameter": 9.533333333333333
+        },
+        {
+            "Index": 359,
+            "Modularity": 0.49867500000000003,
+            "Num Concepts Accessed": 28.933333333333334,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 360,
+            "Modularity": 0.49621250000000006,
+            "Num Concepts Accessed": 27.8,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 361,
+            "Modularity": 0.491,
+            "Num Concepts Accessed": 29.5,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 362,
+            "Modularity": 0.4936125,
+            "Num Concepts Accessed": 28.233333333333334,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 363,
+            "Modularity": 0.4955125,
+            "Num Concepts Accessed": 29.433333333333334,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 364,
+            "Modularity": 0.4914375,
+            "Num Concepts Accessed": 29.833333333333332,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 365,
+            "Modularity": 0.49552500000000005,
+            "Num Concepts Accessed": 28.3,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 366,
+            "Modularity": 0.4945,
+            "Num Concepts Accessed": 29.7,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 367,
+            "Modularity": 0.49472499999999997,
+            "Num Concepts Accessed": 29.4,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 368,
+            "Modularity": 0.6844625,
+            "Num Concepts Accessed": 25.166666666666668,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 369,
+            "Modularity": 0.49216249999999995,
+            "Num Concepts Accessed": 28.666666666666668,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 370,
+            "Modularity": 0.4869375,
+            "Num Concepts Accessed": 28.933333333333334,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 371,
+            "Modularity": 0.4877500000000001,
+            "Num Concepts Accessed": 28.166666666666668,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 372,
+            "Modularity": 0.4929375,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 373,
+            "Modularity": 0.49043749999999997,
+            "Num Concepts Accessed": 30.033333333333335,
+            "Diameter": 9.633333333333333
+        },
+        {
+            "Index": 374,
+            "Modularity": 0.49051249999999996,
+            "Num Concepts Accessed": 28.766666666666666,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 375,
+            "Modularity": 0.4878375,
+            "Num Concepts Accessed": 30.066666666666666,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 376,
+            "Modularity": 0.4906,
+            "Num Concepts Accessed": 29.8,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 377,
+            "Modularity": 0.4861125,
+            "Num Concepts Accessed": 28.866666666666667,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 378,
+            "Modularity": 0.48808749999999995,
+            "Num Concepts Accessed": 29.633333333333333,
+            "Diameter": 9.2
+        },
+        {
+            "Index": 379,
+            "Modularity": 0.6855500000000002,
+            "Num Concepts Accessed": 23.1,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 380,
+            "Modularity": 0.4853375,
+            "Num Concepts Accessed": 30.033333333333335,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 381,
+            "Modularity": 0.48518750000000005,
+            "Num Concepts Accessed": 30.066666666666666,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 382,
+            "Modularity": 0.48826250000000004,
+            "Num Concepts Accessed": 29.6,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 383,
+            "Modularity": 0.48763750000000006,
+            "Num Concepts Accessed": 30.2,
+            "Diameter": 8.633333333333333
+        },
+        {
+            "Index": 384,
+            "Modularity": 0.48569999999999997,
+            "Num Concepts Accessed": 30.5,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 385,
+            "Modularity": 0.48702500000000004,
+            "Num Concepts Accessed": 29.233333333333334,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 386,
+            "Modularity": 0.48486250000000003,
+            "Num Concepts Accessed": 28.5,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 387,
+            "Modularity": 0.4827625,
+            "Num Concepts Accessed": 29.366666666666667,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 388,
+            "Modularity": 0.48218750000000005,
+            "Num Concepts Accessed": 28.9,
+            "Diameter": 9.466666666666667
+        },
+        {
+            "Index": 389,
+            "Modularity": 0.47931250000000003,
+            "Num Concepts Accessed": 29.9,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 390,
+            "Modularity": 0.6826625,
+            "Num Concepts Accessed": 24.133333333333333,
+            "Diameter": 9.533333333333333
+        },
+        {
+            "Index": 391,
+            "Modularity": 0.4835375,
+            "Num Concepts Accessed": 28.866666666666667,
+            "Diameter": 8.333333333333334
+        },
+        {
+            "Index": 392,
+            "Modularity": 0.4839,
+            "Num Concepts Accessed": 27.9,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 393,
+            "Modularity": 0.474425,
+            "Num Concepts Accessed": 28.8,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 394,
+            "Modularity": 0.48129999999999995,
+            "Num Concepts Accessed": 27.5,
+            "Diameter": 8.066666666666666
+        },
+        {
+            "Index": 395,
+            "Modularity": 0.48252500000000004,
+            "Num Concepts Accessed": 29.1,
+            "Diameter": 9.1
+        },
+        {
+            "Index": 396,
+            "Modularity": 0.481825,
+            "Num Concepts Accessed": 29.2,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 397,
+            "Modularity": 0.4796249999999999,
+            "Num Concepts Accessed": 29.933333333333334,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 398,
+            "Modularity": 0.47743750000000007,
+            "Num Concepts Accessed": 30.1,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 399,
+            "Modularity": 0.4805,
+            "Num Concepts Accessed": 29.133333333333333,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 400,
+            "Modularity": 0.47995,
+            "Num Concepts Accessed": 28.633333333333333,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 401,
+            "Modularity": 0.6863375,
+            "Num Concepts Accessed": 21.4,
+            "Diameter": 9.533333333333333
+        },
+        {
+            "Index": 402,
+            "Modularity": 0.4766125,
+            "Num Concepts Accessed": 30.466666666666665,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 403,
+            "Modularity": 0.47773750000000004,
+            "Num Concepts Accessed": 29.033333333333335,
+            "Diameter": 8.133333333333333
+        },
+        {
+            "Index": 404,
+            "Modularity": 0.47118750000000004,
+            "Num Concepts Accessed": 28.333333333333332,
+            "Diameter": 8.566666666666666
+        },
+        {
+            "Index": 405,
+            "Modularity": 0.4768000000000001,
+            "Num Concepts Accessed": 29.6,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 406,
+            "Modularity": 0.4769625,
+            "Num Concepts Accessed": 28.433333333333334,
+            "Diameter": 8.533333333333333
+        },
+        {
+            "Index": 407,
+            "Modularity": 0.473725,
+            "Num Concepts Accessed": 28.033333333333335,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 408,
+            "Modularity": 0.47643749999999996,
+            "Num Concepts Accessed": 29.3,
+            "Diameter": 8.3
+        },
+        {
+            "Index": 409,
+            "Modularity": 0.4731,
+            "Num Concepts Accessed": 29.266666666666666,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 410,
+            "Modularity": 0.47468750000000004,
+            "Num Concepts Accessed": 28.566666666666666,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 411,
+            "Modularity": 0.47358750000000005,
+            "Num Concepts Accessed": 30.5,
+            "Diameter": 8.8
+        },
+        {
+            "Index": 412,
+            "Modularity": 0.6817125,
+            "Num Concepts Accessed": 24.166666666666668,
+            "Diameter": 9.266666666666667
+        },
+        {
+            "Index": 413,
+            "Modularity": 0.47283749999999997,
+            "Num Concepts Accessed": 28.133333333333333,
+            "Diameter": 8.733333333333333
+        },
+        {
+            "Index": 414,
+            "Modularity": 0.47190000000000004,
+            "Num Concepts Accessed": 29.566666666666666,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 415,
+            "Modularity": 0.473375,
+            "Num Concepts Accessed": 28.333333333333332,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 416,
+            "Modularity": 0.4722625,
+            "Num Concepts Accessed": 29.066666666666666,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 417,
+            "Modularity": 0.4673125,
+            "Num Concepts Accessed": 28.166666666666668,
+            "Diameter": 8.833333333333334
+        },
+        {
+            "Index": 418,
+            "Modularity": 0.4718375,
+            "Num Concepts Accessed": 29.3,
+            "Diameter": 8.966666666666667
+        },
+        {
+            "Index": 419,
+            "Modularity": 0.46995000000000003,
+            "Num Concepts Accessed": 29.9,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 420,
+            "Modularity": 0.47078749999999997,
+            "Num Concepts Accessed": 28.433333333333334,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 421,
+            "Modularity": 0.46738749999999996,
+            "Num Concepts Accessed": 28.266666666666666,
+            "Diameter": 8.3
+        },
+        {
+            "Index": 422,
+            "Modularity": 0.46877500000000005,
+            "Num Concepts Accessed": 29.1,
+            "Diameter": 9.233333333333333
+        },
+        {
+            "Index": 423,
+            "Modularity": 0.6821250000000002,
+            "Num Concepts Accessed": 24.266666666666666,
+            "Diameter": 10.533333333333333
+        },
+        {
+            "Index": 424,
+            "Modularity": 0.46676249999999997,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 425,
+            "Modularity": 0.468025,
+            "Num Concepts Accessed": 27.633333333333333,
+            "Diameter": 8.466666666666667
+        },
+        {
+            "Index": 426,
+            "Modularity": 0.4667625,
+            "Num Concepts Accessed": 30.8,
+            "Diameter": 8.766666666666667
+        },
+        {
+            "Index": 427,
+            "Modularity": 0.4662875000000001,
+            "Num Concepts Accessed": 28.4,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 428,
+            "Modularity": 0.463125,
+            "Num Concepts Accessed": 28.566666666666666,
+            "Diameter": 8.0
+        },
+        {
+            "Index": 429,
+            "Modularity": 0.466325,
+            "Num Concepts Accessed": 29.466666666666665,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 430,
+            "Modularity": 0.461175,
+            "Num Concepts Accessed": 28.433333333333334,
+            "Diameter": 8.5
+        },
+        {
+            "Index": 431,
+            "Modularity": 0.46313750000000004,
+            "Num Concepts Accessed": 29.7,
+            "Diameter": 8.333333333333334
+        },
+        {
+            "Index": 432,
+            "Modularity": 0.46075,
+            "Num Concepts Accessed": 30.0,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 433,
+            "Modularity": 0.46167499999999995,
+            "Num Concepts Accessed": 29.233333333333334,
+            "Diameter": 8.5
+        },
+        {
+            "Index": 434,
+            "Modularity": 0.6849875,
+            "Num Concepts Accessed": 25.933333333333334,
+            "Diameter": 9.7
+        },
+        {
+            "Index": 435,
+            "Modularity": 0.45972500000000005,
+            "Num Concepts Accessed": 29.9,
+            "Diameter": 9.5
+        },
+        {
+            "Index": 436,
+            "Modularity": 0.46207499999999996,
+            "Num Concepts Accessed": 29.066666666666666,
+            "Diameter": 8.6
+        },
+        {
+            "Index": 437,
+            "Modularity": 0.46306250000000004,
+            "Num Concepts Accessed": 29.8,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 438,
+            "Modularity": 0.45861250000000003,
+            "Num Concepts Accessed": 29.6,
+            "Diameter": 8.233333333333333
+        },
+        {
+            "Index": 439,
+            "Modularity": 0.457,
+            "Num Concepts Accessed": 30.7,
+            "Diameter": 8.7
+        },
+        {
+            "Index": 440,
+            "Modularity": 0.457525,
+            "Num Concepts Accessed": 29.033333333333335,
+            "Diameter": 8.866666666666667
+        },
+        {
+            "Index": 441,
+            "Modularity": 0.45706250000000004,
+            "Num Concepts Accessed": 30.0,
+            "Diameter": 8.5
+        },
+        {
+            "Index": 442,
+            "Modularity": 0.4578,
+            "Num Concepts Accessed": 29.3,
+            "Diameter": 8.8
+        },
+        {
+            "Index": 443,
+            "Modularity": 0.45808750000000004,
+            "Num Concepts Accessed": 29.733333333333334,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 444,
+            "Modularity": 0.4564000000000001,
+            "Num Concepts Accessed": 28.366666666666667,
+            "Diameter": 8.433333333333334
+        },
+        {
+            "Index": 445,
+            "Modularity": 0.70635,
+            "Num Concepts Accessed": 21.366666666666667,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 446,
+            "Modularity": 0.6810749999999999,
+            "Num Concepts Accessed": 22.266666666666666,
+            "Diameter": 9.866666666666667
+        },
+        {
+            "Index": 447,
+            "Modularity": 0.6795125,
+            "Num Concepts Accessed": 23.033333333333335,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 448,
+            "Modularity": 0.6816374999999998,
+            "Num Concepts Accessed": 24.366666666666667,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 449,
+            "Modularity": 0.6803250000000001,
+            "Num Concepts Accessed": 22.266666666666666,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 450,
+            "Modularity": 0.68045,
+            "Num Concepts Accessed": 21.0,
+            "Diameter": 9.066666666666666
+        },
+        {
+            "Index": 451,
+            "Modularity": 0.6799125,
+            "Num Concepts Accessed": 21.533333333333335,
+            "Diameter": 9.166666666666666
+        },
+        {
+            "Index": 452,
+            "Modularity": 0.6750375,
+            "Num Concepts Accessed": 22.766666666666666,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 453,
+            "Modularity": 0.680675,
+            "Num Concepts Accessed": 21.533333333333335,
+            "Diameter": 9.0
+        },
+        {
+            "Index": 454,
+            "Modularity": 0.6790875,
+            "Num Concepts Accessed": 22.133333333333333,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 455,
+            "Modularity": 0.679425,
+            "Num Concepts Accessed": 21.2,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 456,
+            "Modularity": 0.7023125,
+            "Num Concepts Accessed": 21.133333333333333,
+            "Diameter": 8.9
+        },
+        {
+            "Index": 457,
+            "Modularity": 0.676525,
+            "Num Concepts Accessed": 21.733333333333334,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 458,
+            "Modularity": 0.6739875000000001,
+            "Num Concepts Accessed": 25.033333333333335,
+            "Diameter": 10.733333333333333
+        },
+        {
+            "Index": 459,
+            "Modularity": 0.6766250000000001,
+            "Num Concepts Accessed": 23.366666666666667,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 460,
+            "Modularity": 0.6660625000000001,
+            "Num Concepts Accessed": 23.7,
+            "Diameter": 10.333333333333334
+        },
+        {
+            "Index": 461,
+            "Modularity": 0.6776625000000001,
+            "Num Concepts Accessed": 22.966666666666665,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 462,
+            "Modularity": 0.6744249999999999,
+            "Num Concepts Accessed": 22.3,
+            "Diameter": 9.9
+        },
+        {
+            "Index": 463,
+            "Modularity": 0.6764625,
+            "Num Concepts Accessed": 23.366666666666667,
+            "Diameter": 10.033333333333333
+        },
+        {
+            "Index": 464,
+            "Modularity": 0.6731375,
+            "Num Concepts Accessed": 23.6,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 465,
+            "Modularity": 0.67335,
+            "Num Concepts Accessed": 24.033333333333335,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 466,
+            "Modularity": 0.6715875,
+            "Num Concepts Accessed": 23.733333333333334,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 467,
+            "Modularity": 0.704,
+            "Num Concepts Accessed": 22.4,
+            "Diameter": 10.166666666666666
+        },
+        {
+            "Index": 468,
+            "Modularity": 0.6682375,
+            "Num Concepts Accessed": 23.566666666666666,
+            "Diameter": 10.433333333333334
+        },
+        {
+            "Index": 469,
+            "Modularity": 0.6730124999999999,
+            "Num Concepts Accessed": 23.9,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 470,
+            "Modularity": 0.6731999999999999,
+            "Num Concepts Accessed": 25.733333333333334,
+            "Diameter": 10.5
+        },
+        {
+            "Index": 471,
+            "Modularity": 0.673275,
+            "Num Concepts Accessed": 23.966666666666665,
+            "Diameter": 11.1
+        },
+        {
+            "Index": 472,
+            "Modularity": 0.6716624999999999,
+            "Num Concepts Accessed": 25.433333333333334,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 473,
+            "Modularity": 0.6708999999999999,
+            "Num Concepts Accessed": 25.766666666666666,
+            "Diameter": 10.9
+        },
+        {
+            "Index": 474,
+            "Modularity": 0.6708625,
+            "Num Concepts Accessed": 22.466666666666665,
+            "Diameter": 8.666666666666666
+        },
+        {
+            "Index": 475,
+            "Modularity": 0.661275,
+            "Num Concepts Accessed": 25.2,
+            "Diameter": 10.366666666666667
+        },
+        {
+            "Index": 476,
+            "Modularity": 0.6663999999999999,
+            "Num Concepts Accessed": 23.666666666666668,
+            "Diameter": 9.933333333333334
+        },
+        {
+            "Index": 477,
+            "Modularity": 0.6678000000000001,
+            "Num Concepts Accessed": 24.366666666666667,
+            "Diameter": 10.066666666666666
+        },
+        {
+            "Index": 478,
+            "Modularity": 0.7027875,
+            "Num Concepts Accessed": 23.033333333333335,
+            "Diameter": 10.133333333333333
+        },
+        {
+            "Index": 479,
+            "Modularity": 0.6669625,
+            "Num Concepts Accessed": 23.266666666666666,
+            "Diameter": 9.033333333333333
+        },
+        {
+            "Index": 480,
+            "Modularity": 0.6639375,
+            "Num Concepts Accessed": 23.966666666666665,
+            "Diameter": 11.5
+        },
+        {
+            "Index": 481,
+            "Modularity": 0.6663875,
+            "Num Concepts Accessed": 23.766666666666666,
+            "Diameter": 9.6
+        },
+        {
+            "Index": 482,
+            "Modularity": 0.6671625,
+            "Num Concepts Accessed": 23.066666666666666,
+            "Diameter": 10.0
+        },
+        {
+            "Index": 483,
+            "Modularity": 0.6652250000000001,
+            "Num Concepts Accessed": 24.033333333333335,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 484,
+            "Modularity": 0.663575,
+            "Num Concepts Accessed": 24.333333333333332,
+            "Diameter": 9.366666666666667
+        },
+        {
+            "Index": 485,
+            "Modularity": 0.6664625000000001,
+            "Num Concepts Accessed": 24.033333333333335,
+            "Diameter": 9.7
+        },
+        {
+            "Index": 486,
+            "Modularity": 0.65705,
+            "Num Concepts Accessed": 24.833333333333332,
+            "Diameter": 9.666666666666666
+        },
+        {
+            "Index": 487,
+            "Modularity": 0.6644749999999999,
+            "Num Concepts Accessed": 24.0,
+            "Diameter": 9.533333333333333
+        },
+        {
+            "Index": 488,
+            "Modularity": 0.6565624999999999,
+            "Num Concepts Accessed": 23.533333333333335,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 489,
+            "Modularity": 0.70345,
+            "Num Concepts Accessed": 21.966666666666665,
+            "Diameter": 10.3
+        },
+        {
+            "Index": 490,
+            "Modularity": 0.664575,
+            "Num Concepts Accessed": 23.6,
+            "Diameter": 9.133333333333333
+        },
+        {
+            "Index": 491,
+            "Modularity": 0.6607249999999999,
+            "Num Concepts Accessed": 24.433333333333334,
+            "Diameter": 9.833333333333334
+        },
+        {
+            "Index": 492,
+            "Modularity": 0.66335,
+            "Num Concepts Accessed": 24.433333333333334,
+            "Diameter": 9.8
+        },
+        {
+            "Index": 493,
+            "Modularity": 0.6628875,
+            "Num Concepts Accessed": 23.766666666666666,
+            "Diameter": 9.333333333333334
+        },
+        {
+            "Index": 494,
+            "Modularity": 0.6587999999999999,
+            "Num Concepts Accessed": 25.666666666666668,
+            "Diameter": 11.133333333333333
+        },
+        {
+            "Index": 495,
+            "Modularity": 0.65745,
+            "Num Concepts Accessed": 25.366666666666667,
+            "Diameter": 10.833333333333334
+        },
+        {
+            "Index": 496,
+            "Modularity": 0.6570874999999998,
+            "Num Concepts Accessed": 23.533333333333335,
+            "Diameter": 10.533333333333333
+        },
+        {
+            "Index": 497,
+            "Modularity": 0.6596375000000001,
+            "Num Concepts Accessed": 25.066666666666666,
+            "Diameter": 9.966666666666667
+        },
+        {
+            "Index": 498,
+            "Modularity": 0.659075,
+            "Num Concepts Accessed": 25.9,
+            "Diameter": 10.8
+        },
+        {
+            "Index": 499,
+            "Modularity": 0.6482625000000002,
+            "Num Concepts Accessed": 25.066666666666666,
+            "Diameter": 10.733333333333333
+        }
+    ],
+    "correlations": {
+        "Modularity_vs_NumConcepts": {
+            "pearson_r": -0.8985034953063974,
+            "p_value": 3.3895332865108575e-180,
+            "ci_lower": -0.9371509978597428,
+            "ci_upper": -0.859855992753052
+        },
+        "Modularity_vs_Diameter": {
+            "pearson_r": 0.5705084244969956,
+            "p_value": 1.6398288183066373e-44,
+            "ci_lower": 0.49820020781477103,
+            "ci_upper": 0.6428166411792201
+        }
+    }
+}
