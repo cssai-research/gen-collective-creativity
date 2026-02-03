@@ -1,0 +1,16 @@
+{
+  "experiment": "experimentE",
+  "run_id": "1708e4d3-d54c-4165-be2c-2045f96c564e",
+  "N": 100,
+  "K": 4,
+  "random_walk_steps": 20,
+  "iterations": 10,
+  "starting_nodes": 10,
+  "seed": 42,
+  "machine_id": "a13c7f203d76",
+  "pair_set_seed": 42,
+  "pair_offset": 0,
+  "num_pairs": 500,
+  "time_taken_seconds": 5.582820892333984,
+  "db_path": "C:\\Users\\Raiyan Abdul Baten\\Dropbox\\py_virtual_env_dec20\\Nayeem - creativity\\hnds2-main\\outputs\\social_inspiration\\results\\rw20_iter10_nodes10_pairs500_seed42_pairset42_off0\\results.db"
+}
